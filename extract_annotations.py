@@ -12,6 +12,8 @@ def main():
                 obj = annot.get_object()
                 if(obj["/Subtype"]=="/Popup"):
                     continue
+                if(obj["/Subtype"]=="/Link"):
+                    continue
                 if((obj["/Subtype"]=="/Caret") and (obj["/Subj"]=="Inserted Text")):
                     print("- Caret, inserted text is: ", obj["/Contents"])
                 if(("/IRT" not in obj.keys()) and (obj["/Subj"]=="Cross-Out")):

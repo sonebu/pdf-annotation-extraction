@@ -12,6 +12,7 @@ Currently only works for the following types of annotations:
 - Strikethrough annotations (just says "remove this part"):
 <img src="https://github.com/sonebu/pdf-annotation-extraction/assets/25130839/29834bf8-580d-4b90-b3f4-f99683146f3e" width=10% height=10%>
 
+Ignores hyperlinks in the text such as those generated for citations in latex-built academic article PDFs.
 
 Probably useful for grad students who need to make sure they address every comment/annotation their advisor or a reviewer makes on a PDF they shared (e.g., article, response letter etc.). I used this to simply generate a list of action items over which I can check my work and tell whether I missed a review point / comment. 
 
