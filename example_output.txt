@@ -1,0 +1,16 @@
+Page 0 Annotations
+----------------------------------------
+
+
+Page 1 Annotations
+----------------------------------------
+- Caret, inserted text is:  vehicles
+- Note, text is:  These five
+- Caret, inserted text is:  given by
+- Caret, inserted text is:  offset
+- Strikethrough, don't know the location
+- Strikethrough, don't know the location
+- Caret, inserted text is:  in
+- Note, text is:  give both number and title...
+- Note, but no text
+

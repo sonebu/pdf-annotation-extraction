@@ -23,7 +23,7 @@ Just install [pypdf](https://pypi.org/project/pypdf/) via `pip install pypdf`
 
 ### Usage
 
-`python extract_annotations.py > out.txt`
+`python extract_annotations.py pdffile.pdf > example_output.txt`
 
 ### References
 
